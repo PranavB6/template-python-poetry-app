@@ -1,0 +1,17 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries:
+  - en_US
+  - softwareTerms
+words:
+  - devcontainer
+  - devcontainers
+  - autodocstring
+ignoreWords:
+  - elagil
+  - errorlens
+  - njpwerner
+  - tamasfe
+  - usernamehw
+import: []
